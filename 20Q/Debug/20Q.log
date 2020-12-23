@@ -1,0 +1,3 @@
+﻿  20Q.cpp
+D:\Programming\Projects\20Q\20Q.cpp(77,11): warning C4101: 'start_node': unreferenced local variable
+  20Q.vcxproj -> D:\Programming\Projects\20Q\Debug\20Q.exe

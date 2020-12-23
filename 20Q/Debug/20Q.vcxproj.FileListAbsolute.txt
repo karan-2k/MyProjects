@@ -1,0 +1,4 @@
+D:\Programming\C\20Q\Debug\20Q.exe
+D:\Programming\C\20Q\Debug\20Q.pdb
+D:\Programming\Projects\20Q\Debug\20Q.exe
+D:\Programming\Projects\20Q\Debug\20Q.pdb

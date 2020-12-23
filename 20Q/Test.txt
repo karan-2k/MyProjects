@@ -1,0 +1,39 @@
+Is it a Mammal
+Is it a Reptile
+Is it a Insect
+Is it a Bird
+Is it a Fish
+Is it a Joke
+-
+-
+Goldfish
+-
+-
+Sparrow
+-
+-
+Ant
+-
+-
+Snake
+-
+-
+does it moo
+does it meow
+does it squeek
+does it neigh
+Dog
+-
+-
+horse
+-
+-
+mouse
+-
+-
+cat
+-
+-
+cow
+-
+-

@@ -1,0 +1,23 @@
+Is it a Mammal
+Is it a Reptile
+Is it a Insect
+Is it a Bird
+Is it a Fish
+Is it a Joke
+-
+-
+Goldfish
+-
+-
+Sparrow
+-
+-
+Ant
+-
+-
+Snake
+-
+-
+Dog
+-
+-
